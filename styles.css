@@ -1,0 +1,17 @@
+body{
+	height:500px;
+}
+a{
+	text-decoration:none;
+	padding:10px;
+	float:right;
+}
+a:hover{
+	padding:10px;
+	background-color:red;
+	color:orange;
+	border-radius:25px;
+}
+.distance{
+	
+}

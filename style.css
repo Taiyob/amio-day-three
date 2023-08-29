@@ -1,0 +1,12 @@
+			p{
+				background:yellow;
+			}
+			.red{
+				background:red;
+			}
+			.big{
+				font-size:36px;
+			}
+			#hover:hover{
+				background-color: blue;
+			}
